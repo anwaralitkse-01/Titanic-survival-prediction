@@ -34,7 +34,7 @@ It demonstrates:
 ## ▶️ How to Run
 
 1. Clone repository:
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://https://github.com/anwaralitkse-01/Titanic-survival-prediction.git
 
 2. Install dependencies:
    pip install -r requirements.txt
